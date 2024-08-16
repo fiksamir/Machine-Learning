@@ -1,0 +1,5 @@
+https://www.baeldung.com/cs/bagging-boosting-stacking-ml-ensemble-models
+
+https://jovian.com/poduguvenu/xgboost-lightgbm-catboost-sklearn-gradientboosting-comparision
+
+https://lightgbm.readthedocs.io/en/stable/Python-API.html#scikit-learn-api
