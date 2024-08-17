@@ -1,0 +1,9 @@
+Усунення дисбалансу класів;
+SVM
+Презентація:
+
+https://docs.google.com/presentation/d/1-ajz6MTi-GxnwSwnDDAHaD_VQujvgDM5bK2nAQD0PRU/edit#slide=id.p
+
+Ноутбук:
+
+https://colab.research.google.com/drive/11LTcJdPVkqLksjG13MmBfPLz8lkre7l7
