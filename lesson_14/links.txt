@@ -1,0 +1,7 @@
+https://www.nltk.org/api/nltk.html
+
+https://spacy.io/usage
+
+https://fasttext.cc/docs/en/unsupervised-tutorial.html
+
+https://github.com/explosion/spaCy/tree/master/examples
