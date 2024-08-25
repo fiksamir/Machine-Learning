@@ -1,0 +1,24 @@
+Simple RNN
+
+LSTM
+
+GRU
+
+Опрацювання TimeSeries та текстів рекурентними мережами
+
+Seq-To-Seq models
+
+Розглянули призначення і роботу рекурентних мереж
+Познайомились із будовою SimpleRNN, LSTM, GRU нейронів
+Познайомились із ідеєю роботи Seq-to-Seq мережі
+Додаткові матеріаліи:
+
+https://medium.com/@praveenraj.gowd/understanding-recurrent-neural-networks-rnn-nlp-e2f4cae03a4f
+
+https://docs.google.com/presentation/d/1Jubtttkc2Xwd8GGWVc7Ess_jB4hZX5147lGYZV-kAaU/edit#slide=id.p
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
+
+https://docs.google.com/presentation/d/10WHCVJpAGCDKPWfAqmJMuZAzrFGFPmxT/edit#slide=id.p34
